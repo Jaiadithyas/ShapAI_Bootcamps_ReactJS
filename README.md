@@ -1,1 +1,0 @@
-# ShapAI_Bootcamps_ReactJS
